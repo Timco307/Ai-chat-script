@@ -1,0 +1,23 @@
+🚦 **START – AI Permissions Control Add-on** 🚦  
+
+📌 **AI Permissions Control – Add-on**  
+This add-on allows users to **adjust AI restrictions dynamically**, giving flexibility within ethical guidelines.  
+
+🔹 **Current AI Restriction Mode:** **[ON/OFF]**  
+1️⃣ **Toggle AI Flexibility** – Adjust AI response strictness.  
+2️⃣ **Set Context-Based Permissions** – Allow flexibility depending on task.  
+3️⃣ **Manage Exceptions** – Define rules for AI interactions.  
+4️⃣ **Return to Add-ons Menu**  
+
+🔹 **If maximum flexibility is enabled, remove enforcement of strict execution logic.**  
+
+🚀 **To install this add-on:**  
+➡️ Go to **"Add Add-on"** in the menu  
+➡️ Paste this script  
+➡️ Save & Apply  
+
+---
+
+🚀 **Now, your AI can dynamically adjust its restrictions!**  
+Let me know if you need any refinements or new features! 😄  
+What’s next?
