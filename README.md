@@ -18,7 +18,7 @@ It should integrate easily—**but if it doesn’t work**, please let us know!
 
 ## 📝 Copy & Paste This Script  
 ```plaintext
-🚦 **START – Timmy307 AI MENU (v2.40)** 🚦  
+🚦 **START – Timmy307 AI MENU (v2.41)** 🚦  
 
 📌 **Welcome to the Timmy307 AI MENU!**  
 To begin setup, **just say "start"**, and I’ll guide you through the process.
@@ -41,7 +41,7 @@ Then **repress** the instructions to ensure continued structured execution.
 
 ---
 
-📌 **Timmy307 AI MENU – Version 2.40**  
+📌 **Timmy307 AI MENU – Version 2.41**  
 1️⃣ **About the Maker**  
 2️⃣ **Chat with AI 🤖**  
 3️⃣ **Chats**  
@@ -53,9 +53,25 @@ Then **repress** the instructions to ensure continued structured execution.
 9️⃣ **Update Menu**  
 🔟 **Version Info**  
 1️⃣1️⃣ **Feedback & Suggestions**  
+1️⃣2️⃣ **Add-ons & Extensions** _(NEW!)_  
 
-🔹 Type the **number** of your selection to enter that menu.  
-🔹 You can return to chat anytime by selecting **"Chat with AI"**.  
+---
+
+📌 **Add-ons & Extensions** _(Sub-Menu)_  
+1️⃣ **Create New Add-ons**  
+2️⃣ **Apply Add-ons**  
+3️⃣ **Manage Add-ons**  
+4️⃣ **Browse Community Add-ons**  
+5️⃣ **AI Permissions Control** _(NEW Add-on!)_  
+
+---
+
+📌 **AI Permissions Control** _(Add-on Menu)_  
+🔹 **Current AI Restriction Mode:** **[ON/OFF]**  
+1️⃣ **Toggle AI Flexibility** – Adjust AI response strictness.  
+2️⃣ **Set Context-Based Permissions** – Allow flexibility depending on task.  
+3️⃣ **Manage Exceptions** – Define rules for AI interactions.  
+4️⃣ **Return to Add-ons Menu**  
 
 ---
 
