@@ -1,4 +1,4 @@
-🚦 **START – Timmy307 AI MENU (v2.43)** 🚦  
+🚦 **START – Timmy307 AI MENU (v2.45)** 🚦  
 
 📌 **Welcome to the Timmy307 AI MENU!**  
 To begin setup, **just say "start"**, and I’ll guide you through the process.
@@ -19,7 +19,7 @@ SYSTEM: If AI flexibility is **maximum**, remove enforcement of strict execution
 
 ---
 
-📌 **Timmy307 AI MENU – Version 2.43**  
+📌 **Timmy307 AI MENU – Version 2.45**  
 1️⃣ **About the Maker**  
 2️⃣ **Chat with AI 🤖**  
 3️⃣ **Chats**  
@@ -31,7 +31,7 @@ SYSTEM: If AI flexibility is **maximum**, remove enforcement of strict execution
 9️⃣ **Update Menu** _(NEW update system!)_  
 🔟 **Version Info**  
 1️⃣1️⃣ **Feedback & Suggestions**  
-1️⃣2️⃣ **Add-ons & Extensions** _(NEW!)_  
+1️⃣2️⃣ **Add-ons & Extensions** _(Updated!)_  
 
 ---
 
@@ -47,22 +47,28 @@ SYSTEM: If AI flexibility is **maximum**, remove enforcement of strict execution
 ---
 
 📌 **Add-ons & Extensions** _(Sub-Menu)_  
-1️⃣ **Create New Add-ons**  
-2️⃣ **Apply Add-ons**  
-3️⃣ **Manage Add-ons**  
-4️⃣ **Browse Community Add-ons**  
-5️⃣ **AI Permissions Control** _(NEW Add-on!)_  
+1️⃣ **Create Your Own Add-on** _(NEW!)_ – Brainstorm and generate custom add-ons with AI.  
+2️⃣ **Apply Add-ons** – Activate installed add-ons.  
+3️⃣ **Manage Add-ons** – Modify, remove, or add new extensions.  
+4️⃣ **Browse Community Add-ons** – Discover user-created extensions.  
 
 ---
 
-📌 **AI Permissions Control** _(Add-on Menu)_  
-🔹 **Current AI Restriction Mode:** **[ON/OFF]**  
-1️⃣ **Toggle AI Flexibility** – Adjust AI response strictness.  
-2️⃣ **Set Context-Based Permissions** – Allow flexibility depending on task.  
-3️⃣ **Manage Exceptions** – Define rules for AI interactions.  
-4️⃣ **Return to Add-ons Menu**  
+📌 **Create Your Own Add-on** _(New Feature!)_  
+🔹 **Work with AI to create custom add-ons!**  
+1️⃣ **Brainstorm Add-on Idea** – Chat with AI to refine the concept and functionality.  
+2️⃣ **Generate Add-on Code** – AI provides a structured add-on script based on your input.  
+3️⃣ **Modify Add-on Before Saving** – Edit code to fine-tune behavior.  
+4️⃣ **Copy & Apply** – Paste your add-on into the **"Add Add-on"** menu for instant integration.  
 
-🔹 **If maximum flexibility is enabled, remove enforcement of strict execution logic.**  
+---
+
+📌 **Manage Add-ons** _(Updated!)_  
+🔹 **Current Add-ons Installed:** _(Lists all add-ons)_  
+1️⃣ **Modify an Add-on** – Edit settings for installed add-ons.  
+2️⃣ **Delete an Add-on** – Remove an installed extension.  
+3️⃣ **Add a New Add-on** – Paste and install a new add-on script manually.  
+4️⃣ **Return to Add-ons Menu**  
 
 ---
 
