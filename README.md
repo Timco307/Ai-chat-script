@@ -18,4 +18,4 @@ It should integrate easily—**but if it doesn’t work**, please let us know!
 
 ## 📌 **Get the AI Menu Script**  
 🔹 Click here to view the latest script:  
-➡️ **[AI Menu Script](https://github.com/Timco307/Ai-chat-script/blob/main/ai-menu-script.txt)**
+➡️ **[AI Menu Script](/ai-menu-script.txt)**
